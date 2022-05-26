@@ -1,0 +1,5 @@
+<HTML>
+ <HEAD><TITLE>Cuidado</TITLE></HEAD>
+  BODY bgcolor="white" style = "font-family:Verdana, Geneva, Tahoma, sans-serif">
+      <center> <h1><FONT size="8" color="BLACK" face="Lucida Handwriting">Cuidado y bienestar</h1> </center></FONT>
+<FONT size="4" color="BLACK" face="Century Gothic">Garrapatas en perros: formas de cuidar a tu mascota.</FONT>

@@ -1,0 +1,6 @@
+<HTML>
+   <HEAD><TITLE>Tips</TITLE></HEAD>
+   <BODY bgcolor="#FFA07A" style = "font-family:Verdana, Geneva, Tahoma, sans-serif">
+    <A name="arriba"></A>
+      <center> <h1><FONT size="8" color="BLACK" face="Lucida Handwriting">Dato Curioso</h1> </center></FONT> 
+    </p><center>
